@@ -16,9 +16,9 @@ One Liner Scripts
 
 ```
 python3 -m venv startupweekend
-startupweekend\Scripts\activate # for mac source startupweekend/Scripts/activate
+startupweekend\Scripts\activate # for mac source startupweekend/bin/activate
 pip install --upgrade pip
-pip install -r requirements.txt --no-index --find-links file:///tmp/packages
+pip install -r requirements.txt --no-index --find-links file:///tmp/packages # or pip install -r requirements.txt
 pip install django~=1.4.1
 pip install psycopg2
 ```
