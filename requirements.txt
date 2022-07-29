@@ -83,7 +83,7 @@ redis==2.10.5
 requests==2.18.3
 rtmbot==0.4.0
 s3transfer==0.1.10
-Scrapy==1.4.0
+Scrapy==2.6.2
 semantic-version==2.5.0
 service-identity==17.0.0
 simplegeneric==0.8.1
